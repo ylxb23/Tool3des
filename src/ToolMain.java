@@ -111,7 +111,7 @@ public class ToolMain extends JFrame {
 		menubar.add(menuhelp);
 		
 		sysaddkey.addActionListener(new MenuAddKeyActionListener());
-		helpinfo.addActionListener(new OpenURLAction("http://gitlab.tools.vipshop.com/leo.zeng/Tool4ThreeDES/blob/master/README.md"));
+		helpinfo.addActionListener(new OpenURLAction("https://github.com/ylxb23/Tool3des/blob/master/README.md"));
 	}
 	
 	class OpenURLAction implements ActionListener {
