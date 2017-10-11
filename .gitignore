@@ -1,0 +1,15 @@
+# temp
+*.swp
+*.tmp
+*.class
+
+# idea
+.idea/
+*.iml
+bin/
+build/
+out/
+
+history.txt
+threedeskeys.settings
+
