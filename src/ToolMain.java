@@ -363,7 +363,7 @@ public class ToolMain extends JFrame {
 
 	private void initFrame() {
 		setDefaultCloseOperation(3);
-		setSize(400, 353);
+		setSize(400, 363);
 		setResizable(false);
 		setLocationRelativeTo(null);
 		setTitle("ThreeDES 加解密工具");
