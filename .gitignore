@@ -2,6 +2,9 @@
 *.swp
 *.tmp
 *.class
+.classpath
+.project
+
 
 # idea
 .idea/
